@@ -2,7 +2,7 @@
 2022_2/ computer networking
 ## 컴퓨터망프로그래밍_source
 -------------
-> 과제 & 수업 복습 관련 source 입니다.
+> 과제 & 수업 복습 관련 source
 1. hw01_파일이동 프로그램
 2. hw02_주소변환 프로그램
 3. hw04_SEQ,ACK 구현 프로그램
