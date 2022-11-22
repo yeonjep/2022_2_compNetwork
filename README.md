@@ -1,4 +1,4 @@
-# 2022_compNetowrk
+# 2022_2_compNetowrk
 2022_2/ computer networking
 ## 컴퓨터망프로그래밍_sources
 -------------
